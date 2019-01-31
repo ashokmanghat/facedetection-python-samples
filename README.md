@@ -17,3 +17,17 @@
   <li>Enter the Id as person's name</li>
   <li>Show the face against the webcam and capture the frames</li>
 </ul>
+
+# Steps to Run (TrainingData.py) : 
+<ul>
+  <li>If you have already setup the virtual environment,please follow the below steps else complete the steps for Cascade Classifier</li>
+  <li>Run the trainingdata.py file</b></li>
+  <li>This will generate the trainingdata.yml file inside the project folder</li>
+ </ul>
+ 
+ # Steps to Run (Detection.py) : 
+<ul>
+  <li>If you have already setup the virtual environment,please follow the below steps else complete the steps for Cascade Classifier</li>
+  <li>Run the Detection.py file</b></li>
+  <li>The program will connect to the webcam and start annoting the user with the name</li>
+ </ul>
