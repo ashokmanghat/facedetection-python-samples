@@ -1,4 +1,4 @@
-# facedetection & Face Recognition Samples for my Wall-E Project
+# Face Detection & Face Recognition Samples for my Wall-E Project
 
 # Steps to Run (CascasdeClassifier.py) : 
 <ul>
