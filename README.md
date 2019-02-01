@@ -31,3 +31,7 @@
   <li>Run the Detection.py file</b></li>
   <li>The program will connect to the webcam and start annoting the user with the name</li>
  </ul>
+# Upcomming features and samples
+<ul>
+  <li>Object detection using R-CNN & Faster R-CNN</li>
+</ul>
